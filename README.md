@@ -1,3 +1,3 @@
 # Modelagem
 
-Repositório referente ao relatório solicitado.
+Repositório referente ao relatório solicitado e atividades referentes a diagramas.
