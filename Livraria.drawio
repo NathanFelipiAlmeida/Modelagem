@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T16:42:45.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="pg3cqfR6njhCxzqaAgMS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T16:53:22.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QWm5ZYt6xvrlkfEszGpd" version="24.0.1" type="github">
   <diagram name="Página-1" id="TYP8ZKVgqOrXOaa8t1ww">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1PUDBndks4Toq0aGScg_-1" value="Gerente" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="109" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1PUDBndks4Toq0aGScg_-2" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="109" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1PUDBndks4Toq0aGScg_-4" value="Cliente" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="689" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1PUDBndks4Toq0aGScg_-7" value="Adicionar Novos Livros ao Sistema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
