@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T17:40:56.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1Iba87na8HslF8bebpqL" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T17:45:15.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vPO_pyfp53r0l1AjI-l4" version="24.0.1" type="github">
   <diagram name="Página-1" id="TYP8ZKVgqOrXOaa8t1ww">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1PUDBndks4Toq0aGScg_-1" value="Gerente" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="128" y="425" width="30" height="60" as="geometry" />
+          <mxGeometry x="128" y="515" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1PUDBndks4Toq0aGScg_-2" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="669" y="710" width="30" height="60" as="geometry" />
@@ -25,10 +25,10 @@
         <mxCell id="1PUDBndks4Toq0aGScg_-11" value="Consultar livros disponíveis" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="338" y="510" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1PUDBndks4Toq0aGScg_-12" value="Registrar vendas de livros" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1PUDBndks4Toq0aGScg_-12" value="Registrar vendas de livros" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="338" y="860" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1PUDBndks4Toq0aGScg_-13" value="Cancelar vendas antes da finalização" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1PUDBndks4Toq0aGScg_-13" value="Cancelar vendas antes da finalização" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="338" y="950" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1PUDBndks4Toq0aGScg_-14" value="Remover livros do sistema" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -141,6 +141,18 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="399" y="560" as="sourcePoint" />
             <mxPoint x="559" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PUDBndks4Toq0aGScg_-75" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="1PUDBndks4Toq0aGScg_-1" target="1PUDBndks4Toq0aGScg_-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="660" as="sourcePoint" />
+            <mxPoint x="490" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PUDBndks4Toq0aGScg_-76" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="1PUDBndks4Toq0aGScg_-1" target="1PUDBndks4Toq0aGScg_-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="660" as="sourcePoint" />
+            <mxPoint x="490" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
