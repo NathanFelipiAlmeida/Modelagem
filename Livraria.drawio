@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T17:47:32.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0xoxvw2WJkI4kVKJo4i2" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T17:47:50.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XjlCH5QGa7RCS2kM-2YI" version="24.0.1" type="github">
   <diagram name="Página-1" id="TYP8ZKVgqOrXOaa8t1ww">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1PUDBndks4Toq0aGScg_-1" value="Gerente" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160" y="555" width="30" height="60" as="geometry" />
+          <mxGeometry x="110" y="555" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1PUDBndks4Toq0aGScg_-2" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="669" y="710" width="30" height="60" as="geometry" />
